@@ -1,9 +1,10 @@
 ## Hola, soy Sebastian Ñeguey 👋
 
 
-Sobre mi:
 Egresado en Ingeniería en Ejecucion de la Computación e Informatica.
+
 Desarrollo web.
+
 Desarrollo movil.
 
 <!--
