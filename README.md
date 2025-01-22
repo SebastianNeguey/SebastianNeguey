@@ -1,7 +1,9 @@
 ## Hola, soy Sebastian Ñeguey 👋
 
+Egresado en Ingeniería de Ejecucion de la Computación e Informatica.
 
-Egresado en Ingeniería en Ejecucion de la Computación e Informatica.
+
+Intereses:
 
 Desarrollo web.
 
