@@ -1,5 +1,11 @@
 ## Hola, soy Sebastian Ñeguey 👋
 
+
+Sobre mi:
+Egresado en Ingeniería en Ejecucion de la Computación e Informatica.
+Desarrollo web.
+Desarrollo movil.
+
 <!--
 **SebastianNeguey/SebastianNeguey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
